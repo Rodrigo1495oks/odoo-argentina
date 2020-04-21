@@ -14,7 +14,8 @@ develop-eggs/
 dist/
 ignora esto wey
 eggs/
-lib/
+lib/git commit -a
+
 lib64/
 parts/
 sdist/
