@@ -8,10 +8,10 @@ cache:
 python:
   - "3.6"
 
-addons:
+addons:yyuyuyu
   postgresql: "9.6"
   apt:
-# only add the two lines below if you need wkhtmltopdf for your tests
+# only add the two lines yuyuyuubelow if you need wkhtmltopdf for your tests
 #    sources:
 #      - pov-wkhtmltopdf
 #    Search your sources alias here:
@@ -27,11 +27,11 @@ addons:
       - libcups2-dev
       # FE
       - python-dev
-      - swig
-      - libffi-dev
+      - swigyuyhuy
+      - libffi-devuyuyhuyh
       - libssl-dev
-      - python-m2crypto
-      - python-httplib2
+      - python-m2cryptoyuyy
+      - python-httplib2yuyuy
 #     Search your packages here:
 #       https://github.com/travis-ci/apt-package-whitelist/blob/master/ubuntu-precise
 #      - wkhtmltopdf  # only add if needed and check the before_install section below
